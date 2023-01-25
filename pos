@@ -1,0 +1,13 @@
+ <h1 class="t_h1">OUR Furnitures</h1>
+            <p id="_p">There are many variations of passages of Lorem Ipsum</p>
+            
+            <div class="tempor__content">
+                <img src="img/img-2.png" alt="Avatar" class="image">
+            </div>
+            <h2 id="temport__tetx">TEMPOR INCIDIDUNT UT LABORE ET DOLORE</h2>
+            <p id="lorem__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi</p>
+            <div class="tempor__content">
+                <img src="img/img-3.png" alt="Avatar" class="image">
+            </div>
+            <h2 id="temport__tetx">TEMPOR INCIDIDUNT UT LABORE ET DOLORE</h2>
+            <p id="lorem__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi</p>
